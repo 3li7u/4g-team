@@ -1,0 +1,22 @@
+{
+  "theme_color": "#ff6633",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "فريق فورجي التطوعي",
+  "short_name": "4G Team",
+  "description": "فريق تطوعي من جامعة إيبلا الخاصة يقدم الدعم للطلبة لتحسين تحصيلهم العلمي",
+  "icons": [
+    {
+      "src": "./images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ]
+}

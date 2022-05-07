@@ -1,0 +1,363 @@
+{
+  "about": {
+    "title": "فريق فور جي",
+    "description": "فريق تطوعي من جامعة إيبلا الخاصة",
+    "slogan": "يد العون حتى النهاية وما بعدها، منكم وإليكم",
+    "story": "بهمة وسواعد شبابٍ طموح أيقن أن العمل التطوعي خير سبيل للنهوض بالمجتمع ونظراً للحاجة الماسة للخدمات التي يقدمها الفريق ومن حبّ للغير والخير وبمقدارٍ من العزيمة على تجاوز كل الصعاب وتحديات الظروف نعم بكل هذا، وُلدت شمعة مع بدايات العام الدراسي 2018-2019 كان من شأنها أن تنير الطريق لطلبة كلية الهندسة المعلوماتية والاتصالات في جامعة إيبلا الخاصة، ومضينا على درب أهدافنا محققين إيّاها شيئاً فشيئاً مستلهمين العطاء من بحر من سبقونا على هذا النهج ساعين للالتحاق بركبهم، ولنكون شباباً فاعلاً في مجتمعهم ونترك أثراً وبصمة تخلّد مرروننا في هذه الجامعة"
+  },
+  "contact": {
+    "facebook": "https://www.facebook.com/4g.team.tech",
+    "telegram": "https://t.me/ggggteam",
+    "email": "mailto:info@forgteam.com",
+    "developer": "https://alialhussein.ml"
+  },
+  "statistics": {
+    "startYear": 2019,
+    "filesNumber": 1000,
+    "studentsNumber": 500
+  },
+  "team": [
+    {
+      "name": "علي",
+      "surname": "الحسين",
+      "fname": "Ali",
+      "lname": "Alhussein",
+      "position": "مؤسس الفريق",
+      "faculty": "ITC",
+      "YOB": "1998",
+      "YOJ": "2019",
+      "YOL": "",
+      "img": "images/team/a.alhussein.webp",
+      "contact": {
+        "email": "a.alhussein33@gmail.com",
+        "mobile": "0991570653",
+        "facebook": "https://facebook.com/ali.alhussein.me.33",
+        "telegram": "https://t.me/alialhussein"
+      }
+    },
+    {
+      "name": "طريف",
+      "surname": "واعظ",
+      "fname": "Tarif",
+      "lname": "Waez",
+      "position": "مؤسس مشارك",
+      "faculty": "ITC",
+      "YOB": "1998",
+      "YOJ": "2019",
+      "YOL": "2020",
+      "img": "images/team/t.waez.jpg",
+      "contact": {
+        "email": "pavilionhd_99@hotmail.com",
+        "mobile": "0949939194",
+        "facebook": "https://facebook.com/Ezeltarif",
+        "telegram": "https://t.me/TfOoOX"
+      }
+    },
+    {
+      "name": "رغد",
+      "surname": "بليد",
+      "fname": "Raghad",
+      "lname": "Balid",
+      "position": "مؤسس مشارك",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2019",
+      "YOL": "2022",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "raghad1balid@gmail.com",
+        "mobile": "0991487548",
+        "facebook": "https://facebook.com/raghad.balid.3",
+        "telegram": "https://t.me/RA1BA"
+      }
+    },
+    {
+      "name": "حمزة ابو المكارم ",
+      "surname": "ولي",
+      "fname": "hamza abo almkarem ",
+      "lname": "wali",
+      "position": "عضو إتحاد الطلبة",
+      "faculty": "ITC",
+      "YOB": "1998",
+      "YOJ": "2019",
+      "YOL": "",
+      "img": "images/team/h.wali.jpg",
+      "contact": {
+        "email": "hamamez1999@gmail.com",
+        "mobile": "0952654032",
+        "facebook": "https://facebook.com/hamze.aboalmkarem.wali",
+        "telegram": "https://t.me/haw"
+      }
+    },
+    {
+      "name": "جود",
+      "surname": "ريا",
+      "fname": "Joud",
+      "lname": "Raya",
+      "position": "رئيس الهيئة الطلابية",
+      "faculty": "ITC",
+      "YOB": "1998",
+      "YOJ": "2019",
+      "YOL": "",
+      "img": "images/team/j.raya.jpg",
+      "contact": {
+        "email": "095y093117raya@gmail.com",
+        "mobile": "0956093116",
+        "facebook": "https://facebook.com/joud.raya.7",
+        "telegram": "https://t.me/Joji_ra"
+      }
+    },
+    {
+      "name": "جود",
+      "surname": "ناولو",
+      "fname": "Joud",
+      "lname": "Nawlo",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "1999",
+      "YOJ": "2020",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "joud.nawlo.n@gmail.com",
+        "mobile": "0964667642",
+        "facebook": "https://facebook.com/joud.nawlo",
+        "telegram": "https://t.me/joudnawlo99"
+      }
+    },
+    {
+      "name": "غزل",
+      "surname": "خليل",
+      "fname": "Ghazl",
+      "lname": "Khalil",
+      "position": "مدير",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2020",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "ghazlehkhalil@gmail.com",
+        "mobile": "0949525927",
+        "facebook": "https://facebook.com/ghazal.khalil.56",
+        "telegram": "https://t.me/Ghazlkhalil"
+      }
+    },
+    {
+      "name": "احمد لجين",
+      "surname": "جعفر",
+      "fname": "Ahmad Loujain",
+      "lname": "Jafar",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "1996",
+      "YOJ": "2020",
+      "YOL": "2022",
+      "img": "images/team/l.jafar.jpg",
+      "contact": {
+        "email": "loujain8is3awesome@gmail.com",
+        "mobile": "0988294141",
+        "facebook": "https://facebook.com/loujain.jafar.7",
+        "telegram": "https://t.me/LoujAin_83"
+      }
+    },
+    {
+      "name": "عبد الناصر",
+      "surname": "الهزاع",
+      "fname": "Abdel Nasser",
+      "lname": "Al Hazzaa",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2000",
+      "YOJ": "2020",
+      "YOL": "2022",
+      "img": "images/team/a.hazzaa.jpg",
+      "contact": {
+        "email": "naser.hazzaa2000@gmail.com",
+        "mobile": "0995375999",
+        "facebook": "https://facebook.com/Naser.Hazzaa",
+        "telegram": "https://t.me/AbdelnasserHazzaa"
+      }
+    },
+    {
+      "name": "روان",
+      "surname": "خياطة",
+      "fname": "Rawan",
+      "lname": "Khyata",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2020",
+      "YOL": "2022",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "rawankhyata@gmail.com",
+        "mobile": "0997337669",
+        "facebook": "https://facebook.com/rawan.khyata.3",
+        "telegram": "https://t.me/rawankhyata"
+      }
+    },
+    {
+      "name": "زهرية",
+      "surname": "سقا",
+      "fname": "Zahria ",
+      "lname": "Sakka",
+      "position": "مدير مساعد",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2021",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "zahrasakka2@gmail.com",
+        "mobile": "0993020264",
+        "facebook": "https://www.facebook.com/zahra.sakka2001",
+        "telegram": "https://t.me/zahrasakka"
+      }
+    },
+    {
+      "name": "أمينة",
+      "surname": "الشبلي",
+      "fname": "Amena ",
+      "lname": "Alsheblay",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "1994",
+      "YOJ": "2021",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "ameta3333@gmail.com",
+        "mobile": "0935890281",
+        "facebook": "https://www.facebook.com/profile.php?id=100056088079116",
+        "telegram": "https://t.me/Amosh11111"
+      }
+    },
+    {
+      "name": "سجى",
+      "surname": "سلو",
+      "fname": "Saja ",
+      "lname": "Selo",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2002",
+      "YOJ": "2021",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "sajaselo@gmail.com",
+        "mobile": "0959042806",
+        "facebook": "https://www.facebook.com/saja.selo.7",
+        "telegram": "https://t.me/Sajaselo"
+      }
+    },
+    {
+      "name": "سدرة",
+      "surname": "خطيب",
+      "fname": "Sedra ",
+      "lname": "Khateeb",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2021",
+      "YOL": "",
+      "img": "images/team/avatar.jpg",
+      "contact": {
+        "email": "sedrakhateeb3@gmail.com",
+        "mobile": "0968217004",
+        "facebook": "https://www.facebook.com/sedra.kh.359",
+        "telegram": "https://t.me/SedraKhateeb"
+      }
+    },
+    {
+      "name": "عبد اللطيف",
+      "surname": "ضعيف",
+      "fname": "Abd Allateef ",
+      "lname": "Daief",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2002",
+      "YOJ": "2022",
+      "YOL": "",
+      "img": "images/team/a.daief.png",
+      "contact": {
+        "email": "sedrakhateeb3@gmail.com",
+        "mobile": "0952631610",
+        "facebook": "https://www.facebook.com/profile.php?id=100004462276745",
+        "telegram": "https://t.me/Abdallateefdaief"
+      }
+    },
+    {
+      "name": "نذير",
+      "surname": "عقيل بصمه جي",
+      "fname": "Nazeer ",
+      "lname": "Akil Basmaji",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2001",
+      "YOJ": "2022",
+      "YOL": "",
+      "img": "images/team/n.akil.basmaji.jpg",
+      "contact": {
+        "email": "Nazeerakil6@gmail.com",
+        "mobile": "0988109958",
+        "facebook": "https://www.facebook.com/NazeerAkil",
+        "telegram": "https://t.me/Nazeer_Akil"
+      }
+    },
+    {
+      "name": "مجاهد",
+      "surname": "الاسعد",
+      "fname": "Mojahed",
+      "lname": "Alasaad",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2003",
+      "YOJ": "2022",
+      "YOL": "",
+      "img": "images/team/m.alasaad.jpg",
+      "contact": {
+        "email": "mojahed200311@gmail.com",
+        "mobile": "0982367497",
+        "facebook": "https://www.facebook.com/profile.php?id=100069861461892",
+        "telegram": "https://t.me/Mojahed12_34alasaad"
+      }
+    },
+    {
+      "name": "محمد سعد",
+      "surname": "شحرور",
+      "fname": "Mohammad Saad",
+      "lname": "Shahrour",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2003",
+      "YOJ": "2022",
+      "YOL": "",
+      "img": "images/team/m.shahrour.jpg",
+      "contact": {
+        "email": "saad.shahrour.0960048307@gmail.com",
+        "mobile": "0960048307",
+        "facebook": "https://www.facebook.com/profile.php?id=100005835227837",
+        "telegram": "https://t.me/Saad_Shahrour"
+      }
+    },
+    {
+      "name": "حلا",
+      "surname": "عسليه",
+      "fname": "Hala",
+      "lname": "Asalia",
+      "position": "متطوع",
+      "faculty": "ITC",
+      "YOB": "2003",
+      "YOJ": "2022",
+      "YOL": "",
+      "img": "images/team/h.asalia.jpg",
+      "contact": {
+        "email": "halaasalia55@gmail.com",
+        "mobile": "0959910139",
+        "facebook": "https://www.facebook.com/halla.asaliya",
+        "telegram": "https://t.me/Halaasalia"
+      }
+    }
+  ]
+}
